@@ -1,4 +1,4 @@
-# muOS-Overlays
+# muOS Overlays
 A collection of Overlays for use in muOS on the Anbernic RG35XX series handhelds.
 All Overlays have a pixel grid variant.
 ### Game Gear
