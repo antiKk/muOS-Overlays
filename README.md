@@ -1,6 +1,9 @@
 # muOS Overlays
 A collection of Overlays for use in muOS on the Anbernic RG35XX series handhelds.
+
 All Overlays have a pixel grid variant.
+> [!NOTE]
+> Pixel grid pattern sourced from https://github.com/Jeltr0n/Retro-Overlays
 ### Game Gear
 ![muOS_20240201_2239_1](https://github.com/antiKk/muOS-Overlays/assets/4548266/7beae26d-5b06-4ac4-9949-9bf3e599d861)
 ## Game Boy
