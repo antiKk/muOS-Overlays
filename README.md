@@ -56,3 +56,15 @@ All Overlays have a pixel grid variant.
 
   ![muOS_20240201_2334_0](https://github.com/antiKk/muOS-Overlays/assets/4548266/b5196bb5-9b74-4c57-bad7-45bfcafd3893)
 </details>
+
+### Atari Lynx
+<details>
+  <summary>With Pixel Grid</summary>
+
+  ![muOS_20240202_1909_0](https://github.com/antiKk/muOS-Overlays/assets/4548266/53ead300-5693-4a7d-943a-61d60bd3b4ed)
+</details>
+<details>
+  <summary>Without Pixel Grid</summary>
+
+  ![muOS_20240202_1910_0](https://github.com/antiKk/muOS-Overlays/assets/4548266/ec52a574-1a41-44a5-99c6-51115229e671)
+</details>
