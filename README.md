@@ -68,3 +68,15 @@ All Overlays have a pixel grid variant.
 
   ![muOS_20240202_1910_0](https://github.com/antiKk/muOS-Overlays/assets/4548266/ec52a574-1a41-44a5-99c6-51115229e671)
 </details>
+
+### Virtual Boy
+<details>
+  <summary>With Pixel Grid</summary>
+
+  ![vb_pixel](https://github.com/antiKk/muOS-Overlays/assets/4548266/fc2fb1d0-e8d2-4f6a-907c-dfd0560489ff)
+</details>
+<details>
+  <summary>Without Pixel Grid</summary>
+
+  ![vb_nopixel](https://github.com/antiKk/muOS-Overlays/assets/4548266/8572b83d-73fc-49bc-b3ae-796ab4a1d995)
+</details>
