@@ -1,5 +1,6 @@
 # muOS Overlays
 A collection of Overlays for use in muOS on the Anbernic RG35XX series handhelds.
+The primary aim of these overlays is to offer very little distraction so you can focus on the gameplay, while still giving a touch of the original aesthetic.
 
 All Overlays have a pixel grid variant.
 > [!NOTE]
