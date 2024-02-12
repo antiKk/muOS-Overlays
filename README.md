@@ -23,6 +23,7 @@ With Pixel Grid | Without Pixel Grid
 With Pixel Grid | Without Pixel Grid
 :---: | :---:
 ![muOS_20240213_0849_0](https://github.com/antiKk/muOS-Overlays/assets/4548266/97936e06-d238-47d0-aee7-4249dd8ca356) | ![muOS_20240213_0849_1](https://github.com/antiKk/muOS-Overlays/assets/4548266/45ee53fb-db79-457e-8848-e65059c488a0)
+![muOS_20240213_0856_1](https://github.com/antiKk/muOS-Overlays/assets/4548266/7bc886cc-54db-44a2-8e9e-f0989c84772b) | ![muOS_20240213_0856_2](https://github.com/antiKk/muOS-Overlays/assets/4548266/e2757622-b8b1-4655-8211-ddceb9fcf9f5)
 
 ### Nintendo Game Boy
 
